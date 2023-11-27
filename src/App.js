@@ -1,5 +1,6 @@
 import React from 'react';
-import NeoList from './componentes/NeoList';
+import NeoList from './NeoList';
+import './App.css';
 
 function App() {
   return (
